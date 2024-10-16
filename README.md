@@ -1,5 +1,11 @@
 # API utilizando C
 
+<div align="center">
+  
+  ![ef493c76-b40f-40c6-83a1-2e10f97f6d8a_0](https://github.com/user-attachments/assets/15222a93-9b1b-4e7e-9974-40bc8c1305a8)
+  
+</div>
+
 Desenvolver APIs em C pode ser um desafio interessante, dado que essa linguagem é frequentemente associada a sistemas de baixo nível e desenvolvimento de software eficiente. No entanto, criar uma API que interaja com o GitHub oferece a oportunidade de explorar como os serviços web funcionam e como integrar aplicações em C com plataformas populares.
 
 ### Por que usar C para APIs?
