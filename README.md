@@ -24,10 +24,6 @@ Embora muitas APIs sejam desenvolvidas em linguagens como Python, JavaScript ou 
   -  Manipulação de JSON: Processar as respostas da API do GitHub, frequentemente no formato JSON, usando bibliotecas como cJSON.
   -  Autenticação: Implementar métodos de autenticação, como tokens de acesso, para interagir de forma segura com a API do GitHub.
 
-### Fonte:
-
-https://www.ime.usp.br/~pf/algoritmos/
-
 ## Testando  a API:
 
 ### GET:
